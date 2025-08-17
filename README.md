@@ -1,6 +1,6 @@
 # LangChain + Pinecone RAG
 
-![LangChain Pinecone Screenshot](./docs/assets/langchain-pinecone.png)
+![LangChain Pinecone Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXVNJ8moxvyUZVNVPBVjPUWi_R4VMiXJDVA&s)
 
 This project demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline using [LangChain](https://www.langchain.com/), [OpenAI](https://platform.openai.com/), and [Pinecone](https://www.pinecone.io/).  
 It includes two main scripts:  
